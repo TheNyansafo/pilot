@@ -153,4 +153,4 @@ This is the first project in what I intend to be a public body of work around in
 Interested in Pilot, collaborating, or discussing AI agent design?
 
 📧 smithenaz@gmail.com
-🐙 github.com/Nyansafo
+🐙 github.com/TheNyansafo
